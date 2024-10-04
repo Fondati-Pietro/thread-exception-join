@@ -18,8 +18,6 @@ public class Main {
        p1.join();
        p2.join();
        System.out.println(c.getContatore());
-
-
    }
 }
 
